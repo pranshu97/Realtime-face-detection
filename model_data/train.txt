@@ -1,0 +1,500 @@
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/e715e98c0507f78c.jpg 212,276,380,515,0 385,136,565,308,0 759,168,964,418,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/12ce17349f1afaa0.jpg 123,128,183,204,0 300,178,360,256,0 349,427,412,500,0 432,117,487,197,0 527,450,596,521,0 578,73,638,169,0 737,173,784,245,0 808,435,874,520,0 821,168,896,248,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/2f1c4c1e75607e20.jpg 411,618,483,704,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/150f17df594f1020.jpg 352,26,714,508,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/b1098d899266ca09.jpg 455,120,580,277,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/3c67b7497ec67d98.jpg 0,515,398,1022,0 619,429,1022,1022,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/bb80ad3a80c3ccd9.jpg 228,342,518,721,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/48c249a338b42833.jpg 392,256,449,339,0 476,292,534,356,0 564,271,625,346,0 856,223,917,292,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/cad8a72e9cc2e373.jpg 10,375,68,453,0 365,47,506,205,0 860,375,915,442,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/20b38a2881402002.jpg 21,175,52,248,0 214,117,309,257,0 579,104,642,192,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/df8a83eca9440d1c.jpg 305,171,468,345,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/a75d84ddf0aab018.jpg 477,150,527,207,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/96167ed198407143.jpg 459,299,545,409,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/09fae734f079b58b.jpg 316,103,435,266,0 584,243,709,391,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/3d60cb9db70cb86e.jpg 209,40,225,66,0 291,56,369,164,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/029ea167d0a00fd3.jpg 126,210,201,321,0 294,150,368,260,0 444,193,506,282,0 570,226,638,314,0 646,104,723,221,0 777,106,857,217,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/3278d0fdabf252b9.jpg 338,149,705,627,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/28e35ac4302e87dc.jpg 240,148,337,294,0 455,251,540,377,0 643,85,745,248,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/dfeee7aeff1dae20.jpg 209,133,284,234,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/c1c29864d164b484.jpg 334,127,536,412,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/94b17e211270eadf.jpg 9,188,128,296,0 422,151,514,277,0 841,145,934,261,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/cc2342be3a222836.jpg 12,317,58,371,0 126,256,164,309,0 273,202,318,257,0 498,206,541,266,0 758,204,797,252,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/fb312a11ead0b8e1.jpg 71,156,129,234,0 267,119,328,204,0 353,0,366,13,0 448,0,467,16,0 497,0,521,13,0 504,116,563,204,0 730,146,794,221,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/957b0a3f9b0f52ca.jpg 326,44,477,236,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/d0e4276d3f3b5614.jpg 39,204,356,540,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/3a27fe4f94c5981f.jpg 369,91,544,317,0 527,285,685,498,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/5ece60911fe8a13b.jpg 228,121,306,246,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/5bebe43ee3275f9b.jpg 479,143,772,547,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/14319e5a94f94159.jpg 330,259,527,519,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/a8c358eeef08e3e0.jpg 66,514,130,613,0 192,464,258,569,0 350,267,526,532,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/f97ef9158702c113.jpg 652,337,668,355,0 684,186,726,238,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/2616c774559a12b4.jpg 215,118,308,234,0 463,115,558,223,0 697,93,800,217,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/ad8f7d2b4cd65dfe.jpg 7,529,35,561,0 67,447,98,481,0 392,113,443,176,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/4b19d73ff31d406c.jpg 254,863,304,908,0 321,538,414,627,0 402,834,452,883,0 556,663,622,724,0 562,935,615,981,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/b537854b91964d71.jpg 170,193,273,283,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/3b8e49e8dec87ce6.jpg 21,0,134,161,0 365,0,488,53,0 491,331,509,356,0 719,499,806,579,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/06bc268f8f2d3250.jpg 29,218,40,242,0 83,210,97,234,0 113,229,125,250,0 140,380,155,402,0 325,307,349,342,0 410,264,417,305,0 465,259,483,274,0 494,274,508,294,0 557,262,581,284,0 672,275,684,289,0 710,283,719,302,0 733,289,751,323,0 806,349,837,456,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/ea354f1b514549bd.jpg 223,407,260,461,0 560,588,577,626,0 619,613,660,672,0 761,563,770,600,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/2bd26cec82e891d6.jpg 375,88,476,269,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/d357e1c793c3f4f6.jpg 258,127,507,407,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/06493c9985dc229a.jpg 690,52,813,220,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/48cac5429dbe591c.jpg 268,224,477,487,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/f2412c58eee11342.jpg 45,190,62,216,0 176,195,213,237,0 288,157,315,206,0 357,258,656,690,0 378,166,403,198,0 733,174,778,222,0 958,285,1022,430,0 986,158,1022,203,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/32d17b4f9109fba6.jpg 416,140,638,430,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/316ece9ad90883f8.jpg 182,372,278,481,0 445,95,575,294,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/68df2a75b68b64ac.jpg 479,0,1019,767,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/22e1e7ae61db5b0c.jpg 96,284,174,426,0 280,451,429,655,0 472,518,629,728,0 601,270,681,359,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/1e62b536fde9e9fc.jpg 293,312,377,413,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/0b15e62975f2d072.jpg 41,210,115,305,0 196,224,253,298,0 273,290,340,370,0 404,291,468,371,0 458,208,518,292,0 616,202,684,287,0 753,213,814,291,0 907,194,975,287,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/9866bfb7894a4ed8.jpg 453,118,599,409,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/20fb804110316ed8.jpg 308,142,493,427,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/321a2c06a8d65f80.jpg 386,131,488,275,0 411,275,448,325,0 651,120,755,291,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/acf592482939b990.jpg 134,299,197,482,0 891,304,934,387,0 923,283,938,384,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/f0eeabc10efad173.jpg 221,234,485,385,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/5dd752753760ced8.jpg 292,105,343,165,0 424,152,579,320,0 709,152,884,320,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/e92176d7850f417f.jpg 171,106,485,523,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/4f17770920004876.jpg 329,348,369,369,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/26d8a51bbf9fe823.jpg 298,195,579,559,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/e31c03cfeea26586.jpg 274,147,459,429,0 573,134,787,449,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/2bcdcc8d28f8e2d7.jpg 351,287,489,554,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/23a659af1042774a.jpg 0,0,29,52,0 375,142,488,303,0 770,232,887,368,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/b4cf1bb1a88a7d9a.jpg 888,668,978,759,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/6f38511a5b559f74.jpg 147,165,399,505,0 673,147,948,512,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/9518b88d4294159a.jpg 146,160,242,325,0 461,197,532,310,0 638,49,789,267,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/541efd12ecb0a658.jpg 263,182,367,318,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/fd16bdb460eb74f4.jpg 188,342,244,416,0 423,407,444,534,0 557,318,616,411,0 564,393,643,494,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/6137f0e8b49fa302.jpg 735,243,797,321,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/d86217c1333a2ffd.jpg 216,344,227,358,0 218,373,231,388,0 243,340,252,352,0 270,342,281,352,0 286,360,301,377,0 305,367,316,376,0 307,479,356,547,0 325,363,339,381,0 337,360,348,372,0 348,338,357,351,0 370,338,380,347,0 371,358,383,369,0 380,317,388,329,0 387,363,400,380,0 410,316,420,328,0 410,368,424,377,0 421,335,430,346,0 425,380,440,403,0 429,313,440,324,0 435,329,449,343,0 438,500,501,575,0 497,377,506,390,0 508,383,521,401,0 563,360,579,374,0 598,380,610,399,0 635,342,649,366,0 676,347,691,364,0 707,378,731,408,0 728,385,745,417,0 780,323,796,339,0 783,128,799,145,0 822,339,837,357,0 867,387,884,413,0 886,272,902,289,0 941,63,957,81,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/cf175ee313891d92.jpg 379,201,474,282,0 563,182,644,279,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/6db1f3c0e234826e.jpg 390,118,486,282,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/d1d5325fc0a01ff6.jpg 122,154,313,455,0 658,208,837,434,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/aa5b19e41c0c6f48.jpg 115,275,184,355,0 472,267,550,365,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/9e7741f0e9c97046.jpg 183,6,285,143,0 576,73,666,207,0 859,216,971,331,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/f98a136b35b5551c.jpg 323,47,482,257,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/25af11aeab89b067.jpg 42,328,79,379,0 253,66,330,163,0 422,273,436,312,0 460,134,642,394,0 659,309,674,329,0 703,349,737,381,0 865,312,881,334,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/24964fe38e47215a.jpg 141,82,308,233,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/22fe3847df1e9e40.jpg 66,0,750,483,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/116cac4e4f730713.jpg 339,105,524,372,0 529,218,719,474,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/1b5467184e73a0bf.jpg 304,94,412,235,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/189280ba4ab51831.jpg 150,404,276,519,0 426,310,541,429,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/4790f418c46e4e1e.jpg 285,330,396,471,0 339,252,465,388,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/6a208c3e4497a6a7.jpg 178,274,335,477,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/05bb03b9b6bb5165.jpg 0,244,39,338,0 323,172,405,289,0 659,108,751,220,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/c1c79a508bd140f5.jpg 297,169,331,223,0 410,144,481,250,0 669,225,712,284,0 722,209,755,253,0 758,253,792,297,0 833,198,863,252,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/f795a2a2814c2c19.jpg 20,565,116,679,0 311,93,436,334,0 419,114,575,430,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/2b2567800e3d51f7.jpg 224,105,506,487,0 499,245,608,382,0 748,254,839,370,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/b7e77dc9c230660d.jpg 85,354,339,499,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/15c5457d2f972175.jpg 279,331,365,436,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/37ea13d8711db6e6.jpg 265,105,764,767,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/2ab67d8cf8487904.jpg 79,177,157,294,0 240,177,294,261,0 424,256,451,295,0 481,222,525,281,0 532,258,552,294,0 539,236,564,261,0 544,268,564,306,0 568,263,594,299,0 925,314,944,353,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/eeaf8cf1f58c9689.jpg 419,78,636,370,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/1d2eeda7bcdc2e50.jpg 339,195,474,346,0 532,442,584,496,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/6f9bbe8984b1fbdc.jpg 316,247,407,339,0 533,326,622,439,0 748,214,841,309,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/4a985c50e4a62ad1.jpg 197,299,358,517,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/e1b5edf355737170.jpg 178,236,293,353,0 455,207,591,346,0 472,251,557,348,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/cb60e447d1b705be.jpg 6,232,365,648,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/39e66ca52de663d9.jpg 287,283,484,520,0 477,154,692,423,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/ca677b64c9ec5c96.jpg 216,167,296,309,0 337,339,359,365,0 564,214,603,265,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/dec84eb15f69d21e.jpg 208,192,317,296,0 365,110,467,229,0 733,179,830,286,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/bd25face0f175059.jpg 79,506,106,538,0 90,534,118,565,0 111,580,137,611,0 897,442,927,479,0 908,471,936,502,0 931,518,956,543,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/68b1d7d0381d454e.jpg 203,154,315,306,0 471,287,573,432,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/fe302004143252f6.jpg 115,147,173,220,0 223,184,259,219,0 698,194,847,398,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/06be6e1081d0dffb.jpg 236,160,598,632,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/90a0284718d3f20f.jpg 330,294,550,572,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/0b605db0df3c3000.jpg 203,577,276,640,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/69281dcd58ba2fdf.jpg 114,296,266,417,0 578,389,718,484,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/cc03459ec0e6844b.jpg 470,131,746,541,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/3a90d90ec7d7285b.jpg 903,460,954,530,0 940,349,978,398,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/03128a47a788d9e7.jpg 0,188,490,671,0 487,352,876,616,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/674db1e6568f317d.jpg 656,295,701,345,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/8fc91e6c0fa767ce.jpg 10,329,151,531,0 78,219,159,278,0 169,150,263,234,0 321,221,457,400,0 575,52,675,180,0 582,259,731,442,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/02bf5255301274da.jpg 245,56,453,345,0 316,166,519,349,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/43903b07386e0e94.jpg 54,27,131,187,0 124,164,164,200,0 156,93,188,168,0 179,16,229,130,0 195,130,442,457,0 372,64,408,108,0 611,148,657,244,0 642,147,673,216,0 876,0,1023,278,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/da6675e89be786bc.jpg 325,250,362,305,0 430,238,456,266,0 461,236,499,280,0 674,223,717,257,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/b99a75e711bf353d.jpg 287,165,697,505,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/01fd5aa652661286.jpg 491,213,541,286,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/8c38825489ce415f.jpg 231,369,311,460,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/4f117c067cd5cb13.jpg 196,136,262,231,0 325,194,383,268,0 425,73,490,163,0 575,118,635,197,0 732,99,796,190,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/6c270d38b9bfde71.jpg 548,317,752,474,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/ad9985badd6b1da3.jpg 469,168,568,291,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/1f11317cde547a6d.jpg 291,109,364,212,0 451,106,527,209,0 628,121,708,225,0 794,96,879,209,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/bb67c7d832974ad4.jpg 328,28,451,187,0 513,102,624,256,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/019a523987eb4833.jpg 95,355,206,498,0 159,124,177,140,0 191,89,207,113,0 199,299,270,395,0 269,116,293,137,0 365,268,492,450,0 608,328,715,439,0 701,266,777,374,0 759,439,883,581,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/0dc061103c825df9.jpg 266,376,483,647,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/6e498132d091e141.jpg 563,228,782,513,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/2921116e9c8da285.jpg 38,93,88,216,0 182,223,222,267,0 265,193,315,264,0 392,152,449,246,0 508,229,534,253,0 845,273,869,296,0 936,248,955,280,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/51a8518bdb370a39.jpg 0,193,141,481,0 236,389,462,669,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/0b16dd47618fb2c8.jpg 425,122,543,244,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/6d4192f66f2703c9.jpg 200,123,358,329,0 542,273,661,444,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/2a26cea3a83f0e41.jpg 240,218,589,627,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/8fb3d39a1f134ecf.jpg 356,383,522,580,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/6a96098ee8ed64ee.jpg 241,272,259,320,0 503,263,542,337,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/c317268b78e7e0aa.jpg 432,205,568,412,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/5d6f32d551ea9aab.jpg 330,260,616,465,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/3c5ce2d659367878.jpg 787,293,829,385,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/decb9a4bfad7168f.jpg 17,169,48,215,0 217,173,272,247,0 437,181,475,227,0 464,229,578,363,0 750,180,795,241,0 970,181,1023,254,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/1cd9f7d0f82fa9d3.jpg 57,270,182,437,0 243,211,333,351,0 314,281,365,351,0 368,243,404,316,0 434,278,484,364,0 636,234,737,375,0 810,141,952,352,0 823,335,858,400,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/413f992bcaad272e.jpg 264,94,367,233,0 344,195,451,319,0 626,133,757,293,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/44d104797c0c5684.jpg 75,594,133,658,0 82,334,133,398,0 83,75,136,139,0 85,851,138,915,0 139,558,194,632,0 139,45,197,123,0 139,299,200,376,0 142,814,194,894,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/6595752c73d0efd6.jpg 331,487,345,510,0 362,507,371,522,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/872cc255e2845c14.jpg 209,171,323,374,0 382,116,531,328,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/3d3abcf926c1dbd2.jpg 397,679,469,770,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/43cb80d1b3908ea7.jpg 572,0,988,466,0 241,225,611,671,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/8e5196cde9c308d7.jpg 51,227,60,239,0 132,160,197,245,0 263,184,312,269,0 318,199,358,252,0 383,211,435,270,0 462,192,500,243,0 511,213,562,281,0 584,199,625,264,0 681,202,730,267,0 738,201,786,270,0 869,167,928,250,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/0cc6d9a4a41d53a6.jpg 395,286,449,364,0 595,298,657,383,0 828,255,914,370,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/12086e5209367091.jpg 100,150,189,277,0 267,285,328,360,0 314,193,360,265,0 365,184,442,285,0 434,199,573,383,0 460,130,570,224,0 608,227,652,295,0 678,199,767,328,0 769,230,792,304,0 776,165,823,209,0 855,180,900,242,0 870,220,922,290,0 948,177,977,231,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/c9ecf1f65fd506c2.jpg 129,161,481,570,0 508,152,785,508,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/e052b0316e65d948.jpg 117,120,349,348,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/895f66305bbdd9c2.jpg 275,139,502,354,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/a585ba3bc9694cd4.jpg 292,140,585,539,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/366f85c18d754c8e.jpg 257,150,343,279,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/7f548adeb995080d.jpg 236,211,457,484,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/40e285b7ac4d701d.jpg 358,150,447,238,0 922,131,1004,228,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/97aa962e1456485d.jpg 13,266,97,362,0 348,107,486,310,0 580,147,712,343,0 753,166,908,376,0 924,311,955,350,0 984,321,1023,371,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/ef877472e7349569.jpg 293,174,413,333,0 553,210,680,354,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/79b6a38b5a7d3bb6.jpg 166,225,263,367,0 431,221,482,289,0 522,190,592,294,0 578,278,614,333,0 723,229,758,289,0 789,227,826,285,0 855,193,887,245,0 887,234,934,286,0 962,234,1002,283,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/9c12f523b45dc9b7.jpg 321,79,751,785,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/8879ff628e23765a.jpg 427,133,669,331,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/dd7316609f682798.jpg 199,202,435,586,0 406,445,650,748,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/17f07691a574f7c6.jpg 2,643,397,1023,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/a83ef16f2931fe94.jpg 41,36,183,176,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/1555e163f3a7617f.jpg 320,165,510,443,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/d22d527d1adb5a5d.jpg 155,236,206,309,0 489,275,539,325,0 786,172,850,258,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/6252b9f01024b176.jpg 232,226,308,299,0 371,202,446,268,0 660,136,739,247,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/973622e31d0c4e1f.jpg 279,149,390,309,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/93f03886e7c0847d.jpg 425,166,499,268,0 545,351,589,401,0 663,237,735,333,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/b763330d555dbead.jpg 483,822,563,938,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/4efb3c72e5228747.jpg 74,350,122,411,0 90,480,126,533,0 814,426,840,464,0 853,565,904,670,0 925,410,954,448,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/d5c90e5b1bd19db4.jpg 313,258,466,429,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/f4f1ede24c6e2ef0.jpg 30,609,83,679,0 56,729,102,791,0 507,183,684,408,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/b2fa5b3dfc847b6a.jpg 0,22,591,940,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/073e81480a606fbc.jpg 821,264,1022,621,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/06d5abca95343da3.jpg 558,503,596,544,0 660,547,687,585,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/693f082a209139af.jpg 332,42,512,294,0 572,231,757,498,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/408fb56dd7676588.jpg 471,375,518,495,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/ebda65b1a01ca940.jpg 173,109,310,327,0 474,220,547,321,0 875,65,908,115,0 941,162,966,199,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/26782898694b0027.jpg 2,0,105,109,0 210,57,400,304,0 942,32,1023,229,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/c1065092c8e21ffa.jpg 146,252,205,335,0 922,244,984,319,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/6e3d8825f920c357.jpg 909,366,954,435,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/40320848fe2d8a62.jpg 180,79,426,399,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/40a9d959033dce69.jpg 271,129,444,404,0 633,184,768,397,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/e73e542474bcaaac.jpg 380,326,488,452,0 450,280,584,436,0 558,292,632,416,0 578,276,635,326,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/4ab86cc3acd28c1b.jpg 1,230,52,309,0 168,395,255,504,0 256,321,313,394,0 447,331,501,396,0 596,319,680,408,0 807,294,883,387,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/3a1f75eb3fdbb890.jpg 249,435,343,554,0 424,244,548,350,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/d1f368a6d75c5e7c.jpg 187,164,357,389,0 702,71,892,311,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/3d579c2defdbd4f9.jpg 630,190,783,310,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/66ffde120f119364.jpg 192,303,388,626,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/69c8d248dde9fc82.jpg 179,94,265,188,0 543,131,619,230,0 588,323,657,409,0 600,429,684,523,0 721,368,797,446,0 956,359,1023,447,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/a9b483a831edb210.jpg 153,221,221,308,0 239,171,267,219,0 401,219,443,280,0 706,239,752,301,0 907,158,996,353,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/5e77904be317c1c0.jpg 0,502,276,766,0 596,544,927,766,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/24684ad07e43f4b1.jpg 281,95,524,440,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/997e988a4057022d.jpg 0,265,63,346,0 436,282,486,362,0 619,370,649,415,0 674,400,703,441,0 801,353,842,431,0 842,370,879,411,0 934,421,976,457,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/74a4a1b0ecff4310.jpg 476,103,597,222,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/81e9eecfa700f30b.jpg 339,79,715,554,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/e4c2716fa05336c2.jpg 144,283,320,502,0 408,229,526,343,0 582,172,625,234,0 739,127,827,257,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/0407042df54466c8.jpg 188,380,282,507,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/44aaf5cfbefa7a0c.jpg 269,106,370,215,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/5412345dd833a938.jpg 15,431,103,547,0 440,407,569,531,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/4bbee919f2b4c1dc.jpg 557,42,814,416,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/14dd15c70d7b5f6a.jpg 420,219,528,351,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/28ea128e794030b0.jpg 255,345,378,458,0 662,310,789,449,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/b9cc091a64baa05c.jpg 0,270,90,343,0 222,326,277,414,0 239,442,316,506,0 310,324,360,393,0 408,361,452,419,0 448,291,557,449,0 707,207,760,289,0 763,85,820,176,0 792,396,892,504,0 925,221,979,301,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/145519b30aaa90fc.jpg 209,234,290,335,0 543,71,637,187,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/13f3f3ddf47e6117.jpg 103,192,376,460,0 403,118,673,438,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/35efa5ba54fc292e.jpg 195,0,785,600,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/259526bfa14815d0.jpg 193,124,325,338,0 647,176,762,346,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/4a34af6488b61b32.jpg 438,201,659,381,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/b22a1b3572f89039.jpg 45,845,64,871,0 372,218,489,351,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/5e0973fdbe17de24.jpg 0,393,93,758,0 654,266,763,424,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/e63edfeb1125c63c.jpg 210,104,378,316,0 623,83,770,281,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/b6925aedc77a750d.jpg 227,247,312,371,0 626,348,745,504,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/74b6c6c246c20f37.jpg 177,362,302,506,0 482,349,607,489,0 723,273,843,425,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/ece2ece7da47074e.jpg 299,172,359,244,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/55c5892129d5eba4.jpg 442,222,518,320,0 450,136,477,176,0 571,245,586,286,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/482ee6148373fc2a.jpg 10,86,238,414,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/42f5fd7e7e054e63.jpg 116,143,316,436,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/4be92ee32b99c80a.jpg 115,62,157,140,0 330,19,464,245,0 530,402,593,516,0 886,541,956,701,0 892,356,911,390,0 901,332,920,376,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/0fc9f9ae8a17c028.jpg 0,0,213,224,0 461,185,665,478,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/fd139af0cbd2b006.jpg 82,482,117,534,0 510,446,546,480,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/96fbaf699302c21c.jpg 228,194,379,395,0 596,276,741,483,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/da08354524582052.jpg 135,118,480,593,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/bb79b73d25c01d1a.jpg 254,420,480,660,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/5c62cf79796ac80b.jpg 648,243,690,277,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/5a4493681cef425d.jpg 176,207,212,249,0 270,373,306,413,0 274,202,307,245,0 327,358,356,400,0 331,213,356,250,0 385,363,418,403,0 396,229,414,266,0 418,227,445,257,0 430,362,461,397,0 475,256,501,280,0 496,359,521,388,0 506,246,528,285,0 527,356,549,383,0 543,262,566,292,0 547,364,564,400,0 566,360,590,388,0 595,245,615,273,0 605,365,620,397,0 614,273,635,294,0 662,266,677,287,0 663,351,684,383,0 693,353,704,380,0 721,296,742,326,0 725,349,750,378,0 744,342,754,364,0 764,323,786,353,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/d33a52d96b5a9d3c.jpg 614,332,942,592,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/af35a7c19312167c.jpg 240,339,377,486,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/5b89aa0f748f1bdc.jpg 245,101,616,653,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/b5e0944f418b09b8.jpg 292,107,459,321,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/efba39b6cb02d761.jpg 275,119,417,286,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/59ff3bf7467d7094.jpg 613,235,663,298,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/9bf282412b6b1d1e.jpg 33,398,148,501,0 881,410,973,521,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/c7b49c69724df015.jpg 365,83,613,429,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/09accc6e6ee05bdc.jpg 335,225,503,488,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/65faede3fbbbe63c.jpg 0,57,58,174,0 377,86,536,286,0 663,171,806,355,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/fa46beb1b5fe3fa2.jpg 381,323,541,495,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/507ce14276aad1af.jpg 89,73,229,313,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/ab4ffe8874ceb6c6.jpg 75,314,129,398,0 604,367,685,427,0 677,379,810,496,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/fa54e6498011050b.jpg 693,248,927,536,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/5fedcc5ddf576fc1.jpg 589,167,765,374,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/1aabc7a9e56ae26a.jpg 367,155,679,587,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/0d0cde9613f6f499.jpg 184,160,509,588,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/f95e2a2529d9070b.jpg 353,441,366,462,0 397,445,419,466,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/9a74d0d245eaedc6.jpg 447,171,522,270,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/ed0a8b8d65096d89.jpg 0,518,26,595,0 0,373,68,465,0 285,272,296,285,0 458,574,576,673,0 486,429,545,497,0 670,340,692,372,0 820,331,851,352,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/667be56224cb4248.jpg 0,0,1023,768,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/74d7bf684010b566.jpg 145,363,209,449,0 264,452,322,520,0 394,289,524,466,0 518,415,562,475,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/46a37cfc9081a0da.jpg 1,377,25,413,0 54,406,71,431,0 93,385,117,420,0 97,550,137,648,0 253,467,274,534,0 758,542,836,616,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/8a37cba860a5a6fe.jpg 117,447,283,593,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/a0e6d8b2ca83e6ae.jpg 74,175,255,405,0 489,86,682,354,0 785,155,978,417,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/80b1eb65188df415.jpg 430,180,639,384,0 497,564,529,618,0 565,566,605,614,0 629,570,674,615,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/b08287f2edcf7bc3.jpg 83,276,156,343,0 104,47,125,93,0 255,318,318,378,0 354,100,384,124,0 444,143,463,161,0 596,275,659,401,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/132f46e88d4bc357.jpg 94,276,169,372,0 122,222,136,238,0 170,308,229,362,0 220,100,238,118,0 232,292,285,350,0 374,248,421,314,0 489,262,542,336,0 596,271,648,338,0 688,277,752,351,0 782,293,845,370,0 898,287,969,390,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/9123b67087592084.jpg 332,305,403,544,0 502,0,713,213,0 570,324,641,401,0 630,273,777,443,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/1e3373d580c81395.jpg 206,0,578,431,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/69e2dd931a5a2bfb.jpg 554,274,899,559,0 630,592,707,635,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/326d9b5d9161ecd5.jpg 278,184,376,282,0 428,113,525,257,0 564,149,679,323,0 732,76,863,259,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/4fa9e417a7c75441.jpg 133,140,191,241,0 304,142,365,237,0 360,140,415,234,0 450,174,517,253,0 537,175,557,219,0 612,183,650,266,0 637,85,687,152,0 843,216,918,329,0 911,102,966,182,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/ebc783a39e0c2db2.jpg 135,251,507,732,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/af77b01470ab56bb.jpg 10,474,943,619,0 15,527,35,551,0 65,307,84,328,0 76,534,100,560,0 131,542,147,568,0 161,497,189,525,0 191,547,223,575,0 216,502,242,530,0 291,98,318,124,0 300,506,323,535,0 310,543,340,571,0 406,508,433,531,0 444,539,472,568,0 489,476,516,501,0 550,506,577,534,0 575,538,606,568,0 648,476,675,502,0 701,534,732,556,0 718,77,747,108,0 732,500,761,526,0 865,529,893,556,0 914,580,943,613,0 964,279,996,308,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/89cfaff91f8c31cd.jpg 317,187,434,348,0 496,295,660,459,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/4ac7b827ffa5e339.jpg 321,170,521,390,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/91b63843ee9d766d.jpg 391,258,496,372,0 544,292,676,377,0 800,420,828,470,0 961,464,991,507,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/fbe44c55ba050dd1.jpg 411,427,512,558,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/a26e1f7c79927fab.jpg 170,80,241,161,0 182,406,244,486,0 326,316,390,391,0 358,88,426,154,0 484,379,540,441,0 559,118,619,189,0 662,320,724,393,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/57ac996a499a76ad.jpg 360,27,703,334,0 650,61,854,266,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/eaebc8269d11550e.jpg 131,294,213,407,0 373,125,579,402,0 591,174,800,413,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/4410ab02d69546a4.jpg 129,106,164,160,0 193,143,248,188,0 228,81,262,119,0 275,111,304,143,0 324,77,354,107,0 360,138,412,217,0 383,81,423,123,0 461,156,518,234,0 526,414,550,440,0 531,92,571,148,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/191546539b717cce.jpg 355,170,499,377,0 589,276,742,451,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/b8a1d557b04e660a.jpg 84,62,107,92,0 184,85,205,114,0 332,80,351,106,0 398,109,428,134,0 454,30,504,126,0 710,0,801,83,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/b4ac549a64ac2e14.jpg 450,117,518,211,0 589,145,660,243,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/c7e667c41045076d.jpg 14,95,450,531,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/4309b483c165657a.jpg 228,248,313,348,0 355,66,421,159,0 468,135,551,253,0 551,257,614,384,0 718,313,845,495,0 950,70,1002,139,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/e179008eacf6ef26.jpg 104,285,164,356,0 269,253,323,309,0 430,257,483,332,0 556,285,610,360,0 661,221,731,286,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/684796bfe63d9920.jpg 113,437,282,741,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/545ec5018979f798.jpg 92,443,157,532,0 191,378,258,464,0 296,420,316,471,0 451,460,588,653,0 458,347,528,429,0 583,366,645,432,0 667,364,730,441,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/5b98fd140e721f43.jpg 266,198,479,542,0 529,258,764,558,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/a9a4565178743009.jpg 289,45,361,138,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/04e4fc3c22c91660.jpg 250,216,390,328,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/e45873611802571a.jpg 299,228,521,573,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/3b3f89bc33f1ee15.jpg 52,236,84,293,0 144,282,163,311,0 168,336,207,384,0 374,206,391,238,0 436,281,452,304,0 442,538,495,622,0 471,284,496,310,0 504,324,526,352,0 539,260,556,287,0 621,290,645,319,0 686,305,703,321,0 690,269,701,287,0 733,269,748,298,0 769,433,824,521,0 781,282,796,302,0 865,198,880,220,0 967,305,1005,336,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/1a4b5f68443e1b91.jpg 106,881,127,896,0 106,636,243,770,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/441189d8dcebcf8e.jpg 281,140,415,305,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/7af4681a7185c224.jpg 691,225,874,408,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/8282ad59bbb8c38a.jpg 278,120,376,239,0 401,204,492,323,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/1ad9374612b8c9d6.jpg 284,227,474,440,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/2cefa6850b9e81e4.jpg 207,69,574,525,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/bb71e1c8679dcf4a.jpg 40,316,132,466,0 77,118,145,188,0 152,165,250,243,0 291,467,456,635,0 328,104,380,204,0 493,169,579,356,0 590,143,666,236,0 687,93,733,190,0 687,413,833,557,0 804,78,851,132,0 876,129,976,242,0 900,328,1000,417,0 1010,83,1023,128,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/2203b602418e8527.jpg 137,369,216,452,0 456,109,532,211,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/5b3bf0d0b288df9a.jpg 205,325,300,508,0 482,254,602,433,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/3465bc23ac6fcd72.jpg 276,172,473,379,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/c5fda7fee4fb1f94.jpg 391,643,416,665,0 421,392,465,433,0 422,260,430,279,0 477,160,496,175,0 952,15,968,49,0 955,19,963,47,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/f2cb9eb8479f490d.jpg 348,94,449,241,0 524,205,623,324,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/da95a096e22b868b.jpg 177,76,236,145,0 324,66,385,155,0 535,101,594,176,0 821,81,908,213,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/6a13dbc57eb41c06.jpg 263,202,422,406,0 572,167,749,447,0 670,436,717,515,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/c0407f3a3157314c.jpg 319,226,362,272,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/fc7b270fdb0f986c.jpg 137,229,387,510,0 171,6,355,258,0 796,1,918,223,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/55c9ff11152183ca.jpg 472,145,714,451,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/d86621ad69bb5f7b.jpg 338,109,481,314,0 977,97,1023,286,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/fd57c4c45e043470.jpg 0,0,1023,767,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/3fa55192d0b936e4.jpg 275,250,294,290,0 768,212,859,344,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/7ce96c5855a2134e.jpg 314,184,597,608,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/d0fd30e9d0edfede.jpg 422,237,639,561,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/01e0cdfc039d2a85.jpg 159,304,238,455,0 366,263,456,371,0 492,219,567,302,0 578,244,649,320,0 662,240,731,302,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/2918cbf88b5494ee.jpg 438,328,466,360,0 548,218,575,266,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/6f386575757f62a9.jpg 541,111,675,281,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/b5581da3f73a5fcf.jpg 218,158,282,256,0 597,176,671,273,0 738,245,806,331,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/22055324bd6e33d5.jpg 116,253,157,331,0 270,253,314,312,0 414,278,488,373,0 834,243,872,321,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/6fae1b6fa4beab85.jpg 95,152,155,261,0 98,596,173,682,0 319,174,376,266,0 333,547,392,646,0 496,193,540,274,0 513,541,556,623,0 644,545,684,609,0 645,210,685,293,0 758,220,797,296,0 766,498,800,575,0 847,240,874,306,0 859,472,883,529,0 918,217,943,282,0 934,470,957,530,0 988,249,1012,304,0 998,459,1021,513,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/b0bae7e5e46130e8.jpg 274,112,330,232,0 383,236,468,368,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/4cb09b47bc3c72dd.jpg 19,382,36,405,0 41,404,59,442,0 81,414,90,437,0 88,400,102,421,0 101,145,127,200,0 119,426,149,459,0 124,543,140,584,0 156,421,181,450,0 182,406,196,437,0 209,163,237,208,0 242,427,265,458,0 258,414,276,449,0 329,172,362,223,0 346,414,385,462,0 388,510,418,553,0 432,339,484,418,0 499,462,514,477,0 530,472,546,492,0 556,538,586,576,0 573,140,622,189,0 616,464,631,491,0 722,132,774,175,0 803,162,851,197,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/677a77ae44d9e1c4.jpg 381,173,413,214,0 398,861,419,909,0 704,912,720,944,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/2cfb5f473276299c.jpg 341,109,416,204,0 485,269,557,369,0 664,176,703,239,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/39e31a43aae6ac8d.jpg 388,107,657,452,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/be51017bac393ccd.jpg 22,454,76,523,0 64,544,178,682,0 107,378,152,441,0 157,399,189,436,0 236,350,262,386,0 262,423,347,533,0 337,454,394,539,0 401,402,436,457,0 456,470,572,641,0 472,368,503,413,0 527,373,561,420,0 605,497,688,618,0 608,397,645,452,0 673,375,704,425,0 720,399,778,491,0 772,444,861,555,0 831,404,876,460,0 855,366,893,414,0 872,441,908,488,0 893,404,931,457,0 936,410,961,457,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/1ee11081650524e8.jpg 419,144,547,306,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/aff7e7c9cf032629.jpg 101,154,249,352,0 428,200,573,370,0 799,183,939,370,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/1fd2c17360fd8914.jpg 393,310,532,456,0 817,184,911,280,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/1bc597b725a993dc.jpg 392,413,470,525,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/6791675e0f711fd8.jpg 232,247,321,320,0 405,172,519,306,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/384df0debc4c88ac.jpg 105,330,175,419,0 291,281,333,311,0 371,527,483,654,0 664,72,737,154,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/0b41ebeb7ae683e4.jpg 340,301,461,461,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/04605a222d6eb915.jpg 0,247,17,268,0 24,247,50,265,0 28,277,69,327,0 70,247,85,262,0 73,315,116,357,0 92,247,123,276,0 134,231,148,245,0 143,316,204,378,0 161,253,175,272,0 166,231,185,253,0 188,253,216,288,0 196,308,221,357,0 214,251,232,278,0 223,229,245,254,0 235,315,291,384,0 276,261,307,296,0 319,235,345,270,0 324,178,335,195,0 409,145,456,204,0 414,302,485,387,0 664,217,684,235,0 670,236,699,274,0 700,242,717,266,0 824,107,888,198,0 908,235,932,270,0 936,241,968,282,0 977,240,1005,261,0 979,220,989,236,0 979,257,1021,318,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/9b42d762d5ed52c9.jpg 343,285,686,732,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/a4a25b06a35b4201.jpg 111,150,214,289,0 292,291,399,419,0 394,306,488,355,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/74f92327537552d9.jpg 504,111,604,247,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/22ff6a51125765be.jpg 294,227,555,421,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/9dfe56fd93cb5247.jpg 226,252,474,489,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/7bfe9d287115ec6d.jpg 369,60,476,197,0 735,175,813,312,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/2f3c1962b9fd0ddc.jpg 388,128,508,311,0 515,122,653,314,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/eabc5fc607b9a768.jpg 268,255,378,372,0 610,161,776,366,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/b0ea0c96b50db57f.jpg 433,199,643,444,0 959,270,1023,499,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/9b811bce035163b2.jpg 445,109,534,204,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/b32c2fb112034ffe.jpg 91,125,370,486,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/c612785e465a27bc.jpg 78,154,147,234,0 224,187,277,258,0 282,339,342,414,0 339,166,397,251,0 467,366,528,446,0 477,202,536,267,0 546,214,590,275,0 595,210,654,277,0 616,368,685,450,0 651,216,699,275,0 762,355,824,424,0 768,237,813,301,0 842,222,886,283,0 891,210,947,285,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/780aa6a56dc0d725.jpg 561,323,857,621,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/390954fd740999f5.jpg 316,141,600,557,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/07c199b6dd560f08.jpg 0,291,36,376,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/3fd3152bfabc0786.jpg 100,237,246,500,0 236,201,293,331,0 294,129,469,357,0 847,294,878,596,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/59493b55a36c4e30.jpg 281,265,478,509,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/0fea19d2c14a7c1b.jpg 230,142,445,405,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/c29ae28471f97371.jpg 755,484,800,521,0 905,480,947,527,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/d5b7a90f1bd2f2d0.jpg 540,287,612,379,0 589,262,650,330,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/a5862726190284a3.jpg 95,206,143,277,0 232,273,266,323,0 306,176,336,233,0 393,188,435,252,0 532,230,563,273,0 583,188,627,252,0 637,222,668,257,0 671,197,708,236,0 728,176,761,218,0 776,222,822,289,0 856,165,894,220,0 955,145,1011,234,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/3d197e07061961cd.jpg 88,231,141,302,0 322,210,352,293,0 365,168,474,328,0 488,236,547,331,0 744,101,813,283,0 755,249,813,313,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/c250c4024fa87a9c.jpg 257,92,463,369,0 513,356,637,519,0 774,277,885,457,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/be128a76d09bb601.jpg 433,316,684,668,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/e301e3fb413d2091.jpg 277,162,575,484,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/f1f3746eab4a7c7a.jpg 181,336,411,630,0 562,408,790,718,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/b4225384316d5cbd.jpg 142,464,289,643,0 512,133,630,261,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/dbb914200ee2b852.jpg 202,142,370,403,0 415,352,438,399,0 677,302,711,363,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/3d673897184de193.jpg 179,108,268,239,0 474,63,561,225,0 768,109,847,246,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/22fa5e37a72cd1f0.jpg 56,121,116,180,0 367,214,425,299,0 534,214,596,300,0 708,135,767,210,0 824,192,883,259,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/b23cad28bf9ffa64.jpg 161,385,279,546,0 551,361,606,599,0 673,133,819,277,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/df3452ba62292495.jpg 211,172,447,471,0 567,118,855,495,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/8e369e7c903cdd74.jpg 0,176,239,407,0 5,522,186,677,0 353,75,449,220,0 521,113,614,255,0 758,234,852,440,0 795,577,970,677,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/83861c3c9998d8ed.jpg 66,290,101,358,0 124,302,149,328,0 208,280,229,317,0 212,335,236,372,0 243,241,260,269,0 270,312,304,335,0 310,390,351,421,0 383,383,408,411,0 429,864,496,967,0 462,645,567,762,0 525,375,608,473,0 537,841,615,944,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/8da424feb80b49fd.jpg 46,391,206,573,0 313,205,473,400,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/e6557bbf6f0be8c8.jpg 355,120,474,267,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/6a38f24a2aced4db.jpg 93,122,120,148,0 237,91,284,153,0 466,119,511,181,0 567,390,604,443,0 685,131,742,199,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/12796233e7801ceb.jpg 86,0,141,61,0 434,233,512,324,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/2d8f4da5e6352695.jpg 184,208,290,336,0 331,288,362,323,0 517,176,600,295,0 724,268,807,400,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/c1d8fd52827de1ea.jpg 301,45,779,440,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/7e3078243601c1d9.jpg 103,243,359,597,0 338,398,437,519,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/b17ae64c17f5467f.jpg 186,131,482,561,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/db87b37fd8f6bbd9.jpg 107,71,738,682,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/8a6e5b57dbbb0b68.jpg 364,351,372,367,0 456,367,485,412,0 554,335,655,349,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/d19b2a94814226aa.jpg 353,454,369,493,0 356,549,424,632,0 452,372,469,394,0 649,444,723,532,0 840,465,888,520,0 998,444,1023,491,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/d623d8c8a84ec16a.jpg 132,283,156,395,0 142,288,252,428,0 479,192,602,349,0 506,349,604,484,0 865,230,926,359,0 910,259,1021,389,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/e49a7fa828e53985.jpg 138,150,307,314,0 512,32,843,395,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/db613839a5c66573.jpg 380,245,531,417,0 618,287,778,503,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/b9ed261a59a58ca2.jpg 0,4,1023,767,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/917e08beb86a0024.jpg 360,86,582,390,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/2a4d1a2cded65a6d.jpg 0,0,125,171,0 282,144,331,247,0 540,135,622,238,0 756,96,815,213,0 849,0,931,50,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/d8af87b0a79099ab.jpg 591,390,605,413,0 728,334,774,398,0 904,393,932,430,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/4ef1454c143a17e3.jpg 88,45,645,743,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/8403d00e5b6be0e1.jpg 313,197,474,556,0 442,321,534,460,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/c3eddc2ef4243981.jpg 135,277,181,331,0 556,179,605,245,0 669,312,725,374,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/b034cf0f58abc055.jpg 24,310,51,349,0 75,352,91,374,0 231,517,255,555,0 255,307,265,325,0 262,290,269,309,0 270,293,275,313,0 391,276,401,288,0 434,271,442,284,0 480,270,492,283,0 543,270,555,284,0 599,411,624,441,0 663,349,676,368,0 666,303,671,312,0 675,278,684,292,0 680,303,691,316,0 707,282,719,297,0 720,309,733,324,0 730,287,738,297,0 743,290,751,303,0 756,294,769,308,0 804,379,813,400,0 805,288,818,307,0 844,391,860,412,0 892,433,902,461,0 963,358,974,375,0 969,294,986,313,0 1000,409,1006,434,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/bb4152bd80d49a5c.jpg 177,188,460,615,0 546,196,825,639,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/c82ea0d8ec2b7b4c.jpg 536,101,864,553,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/1504170107d4a145.jpg 681,236,940,572,0 240,232,438,454,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/d77c81aac68a98d1.jpg 267,375,410,566,0 312,134,404,291,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/570bda9fe00be3b5.jpg 154,98,229,197,0 385,142,463,229,0 621,157,690,245,0 817,170,890,259,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/ccec508179865338.jpg 202,51,293,169,0 366,191,463,298,0 542,111,629,237,0 706,72,796,185,0 720,282,795,388,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/175e52322984f3f8.jpg 410,147,626,354,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/08ccb4a7c646f371.jpg 52,94,73,120,0 303,45,331,96,0 428,118,477,141,0 774,125,808,150,0 895,42,911,68,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/1b1890144d4f19b7.jpg 81,68,157,156,0 505,49,581,152,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/743b239819af18e3.jpg 344,186,449,283,0 498,73,584,150,0 880,0,919,29,0 997,28,1016,56,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/f93fa5259c81f621.jpg 40,622,76,694,0 168,513,228,612,0 283,257,483,545,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/01caaa1148882be7.jpg 336,58,756,593,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/d0fc771dc5289cad.jpg 251,130,326,208,0 345,202,458,326,0 629,0,985,294,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/47179675e5e190ad.jpg 157,225,295,393,0 783,345,894,498,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/4d101cc634ad0ada.jpg 70,239,148,324,0 294,198,353,283,0 536,236,587,315,0 678,232,737,314,0 863,257,945,346,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/b4d02974137bcdde.jpg 761,235,847,388,0 867,287,989,425,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/a49909ea92a7f262.jpg 89,561,218,750,0 218,118,246,154,0 410,312,438,358,0 705,92,719,138,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/8594011dc259a832.jpg 123,152,229,286,0 451,173,575,327,0 589,94,700,252,0 941,43,1023,223,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/e6e0d37ffc3e0c73.jpg 24,104,142,274,0 374,102,493,252,0 600,56,735,239,0 851,67,963,216,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/785f20f62c3f206d.jpg 96,606,135,670,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/8082d16a2877fc61.jpg 177,179,256,268,0 292,236,314,278,0 317,259,376,321,0 476,129,558,227,0 633,215,697,315,0 843,119,929,252,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/a1341747dd633bee.jpg 649,374,763,464,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/a711713ae7f77480.jpg 780,44,840,110,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/46332c0e118ab776.jpg 232,19,555,356,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/040b3c93a939cfac.jpg 8,428,134,602,0 148,207,210,303,0 329,106,407,211,0 539,249,563,294,0 572,265,609,312,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/bcd9b26f5644542f.jpg 184,162,237,216,0 235,184,301,250,0 395,157,426,203,0 456,258,568,381,0 603,192,640,242,0 720,304,834,384,0 768,184,795,222,0 990,280,1022,334,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/43218d991ab6930c.jpg 225,132,383,361,0 589,33,754,275,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/834ebc4a092e701b.jpg 428,238,558,411,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/9dd59816a136144f.jpg 0,0,1023,682,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/6607cbad17f5d837.jpg 680,123,779,248,0 896,40,985,163,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/8f855bda8b24cf65.jpg 328,114,493,333,0 605,271,735,438,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/c71a878f131100d9.jpg 292,290,450,491,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/4fb5bf56e6bfffb8.jpg 105,249,511,798,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/ea6cec8ed5c4c873.jpg 262,370,497,681,0 518,95,710,370,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/e9844f18d6b63378.jpg 329,78,440,256,0 698,161,815,311,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/0d101767ef17c548.jpg 223,93,437,316,0 620,104,852,318,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/1a369b5621560d0f.jpg 185,160,313,278,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/74ba175c0cff05d1.jpg 59,187,118,261,0 244,109,283,220,0 625,171,675,242,0 726,162,778,233,0 866,139,910,200,0 885,27,924,152,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/c8357b9ca2494931.jpg 108,282,138,330,0 226,322,257,359,0 476,333,492,353,0 520,330,534,362,0 643,328,659,355,0 698,241,718,306,0 874,327,894,352,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/32a8a4b72e4010e5.jpg 107,127,469,685,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/8fd2131c89f24c16.jpg 200,183,282,293,0 370,170,435,260,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/85ff7fdd273aad54.jpg 252,133,460,445,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/f20757b2d43f689b.jpg 249,263,398,436,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/b15ab3000278efc8.jpg 423,212,617,432,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/1dd6d1e3a20f438f.jpg 176,25,705,830,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/ff3f375f65abf21f.jpg 188,573,227,621,0 334,308,379,370,0 451,280,504,349,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/1ab1cfb95b87662b.jpg 297,77,421,272,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/ce6aeb024fd4995e.jpg 71,83,120,143,0 357,106,388,161,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/c59a166615f89291.jpg 322,0,811,497,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/7f2bbef6aef34cee.jpg 181,288,236,359,0 319,171,339,199,0 584,298,635,361,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/a77601a409a6caba.jpg 15,290,42,327,0 367,298,399,337,0 757,209,845,322,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/a615f70df519bc92.jpg 349,397,393,440,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/36120de36c852908.jpg 327,447,408,543,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/1ee2c6d8f967f9e1.jpg 315,292,427,438,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/222f68d372db80db.jpg 161,127,601,692,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/af527b4f7d7c2143.jpg 8,209,47,258,0 108,79,216,250,0 419,170,533,330,0 716,257,748,291,0 813,195,841,257,0 813,260,878,399,0 833,178,885,340,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/4523fe0b09ce01a7.jpg 413,408,437,433,0 504,392,529,415,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/0360cb6a24c9daf8.jpg 388,116,490,251,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/3562a62d16818f52.jpg 452,142,664,398,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/2948244295d1293c.jpg 321,170,493,316,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/ba2fba9c28ed5550.jpg 183,142,264,256,0 254,49,325,147,0 461,38,539,143,0 532,226,643,352,0 665,49,723,127,0 755,78,789,146,0 892,108,951,188,0 970,69,1023,191,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/ec36c970692be054.jpg 284,173,913,596,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/e2974e321149bbd5.jpg 319,139,472,312,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/75cdb486f8cb1111.jpg 155,95,212,169,0 274,174,350,289,0 367,94,424,165,0 725,121,816,254,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/9577ca594d15f041.jpg 212,198,298,311,0 428,260,476,343,0 674,235,749,333,0 861,203,889,293,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/55b5443d214fbe78.jpg 216,332,470,691,0 660,33,1023,405,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/30f9070b48796da5.jpg 278,372,519,641,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/67d196b7a84d699a.jpg 226,212,430,459,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/e56868121061b3ab.jpg 144,125,218,226,0 459,193,516,266,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/3bee927d728b0774.jpg 68,638,156,736,0 329,342,441,500,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/5350d5aa78d43968.jpg 230,366,298,466,0 654,367,730,454,0 790,367,1016,623,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/4ba39e7ee4ee0df2.jpg 352,700,461,855,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/b8d30784cef04c51.jpg 364,398,432,480,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/ee541dd1cb8ca85a.jpg 47,132,74,167,0 53,339,84,396,0 58,177,79,220,0 69,225,93,279,0 81,124,102,162,0 91,173,113,214,0 100,460,143,532,0 115,112,138,148,0 137,288,212,426,0 155,140,181,171,0 172,471,211,531,0 188,160,235,235,0 244,474,298,538,0 268,145,311,225,0 282,77,315,136,0 326,480,376,540,0 334,278,412,403,0 353,122,407,185,0 400,483,452,559,0 403,297,508,431,0 448,127,495,188,0 490,562,528,613,0 492,38,532,100,0 557,143,591,178,0 570,11,615,77,0 589,279,662,370,0 669,102,717,150,0 700,332,742,375,0 717,0,757,38,0 749,226,787,309,0 757,467,818,544,0 771,353,824,438,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/a8f74ff0fae79095.jpg 183,162,333,358,0 369,195,433,283,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/79139bc09a87ab36.jpg 402,419,475,489,0 498,283,559,344,0 534,202,610,309,0 597,589,654,650,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/d0a09a9fc366a03c.jpg 457,145,546,232,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/b3e30737a8a9a988.jpg 304,89,463,322,0 684,89,810,252,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/3cd3d9ae456f0d51.jpg 0,0,113,255,0 371,95,478,241,0 801,0,903,193,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/a0fb37062cab0e20.jpg 269,65,348,143,0 456,115,534,214,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/3eab01f25dd0156c.jpg 210,165,344,341,0 500,193,593,280,0 779,152,884,279,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/21d57ccb4faf6fd5.jpg 12,2,68,102,0 511,127,852,592,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/e19c770210054a3e.jpg 9,114,97,230,0 139,218,180,278,0 180,428,308,581,0 237,221,273,285,0 314,239,383,337,0 403,195,452,280,0 494,173,607,335,0 564,120,620,211,0 664,168,711,252,0 690,60,826,265,0 844,196,893,245,0 921,77,987,182,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/142e8ff09bc91cbf.jpg 66,55,113,111,0 487,220,532,281,0 703,79,724,123,0 808,75,854,138,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/7d6a89373ced6a9c.jpg 472,210,620,413,0 323,254,471,432,0 632,161,701,252,0 737,195,771,293,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/37e95fc7f1c3b4d2.jpg 220,99,342,226,0 294,259,435,434,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/dfec65c042c99715.jpg 307,200,458,350,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/f54fd5aef79a3b62.jpg 133,196,606,844,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/5b40aa2a454b92d8.jpg 69,260,120,322,0 144,319,204,367,0 212,356,300,468,0 263,290,305,353,0 268,479,376,643,0 310,288,358,330,0 363,254,458,361,0 557,461,654,608,0 605,290,653,333,0 664,288,713,346,0 708,330,763,377,0 895,390,1007,534,0 908,273,955,351,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/493451d242a4db07.jpg 269,38,427,186,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/6c5ac875f2dcd7f0.jpg 396,245,512,398,0 527,105,649,273,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/86686454b0481651.jpg 422,176,551,324,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/127a60adf25d3a8a.jpg 531,211,682,405,0 356,234,511,430,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/98b67a61aa16b7d9.jpg 199,75,309,232,0 334,86,902,822,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/8742439257cc498c.jpg 624,63,799,267,0 787,230,902,569,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/742e483694fa2b5d.jpg 461,159,610,339,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/576a752d725bcade.jpg 0,243,353,450,0 348,271,446,439,0 446,148,618,344,0 643,211,792,475,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/661eb1d3fd61c4fa.jpg 282,79,376,200,0 308,151,422,288,0 455,60,536,151,0 631,143,726,270,0 733,33,832,161,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/9bf0be00cdd37f23.jpg 875,196,1004,344,0 95,251,184,366,0 300,312,369,403,0 463,251,535,366,0 619,245,698,340,0 772,293,859,400,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/478a63c118b8d11c.jpg 424,392,660,627,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/15c3201536259b30.jpg 142,187,389,509,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/8d6c6813f87a7cb7.jpg 246,138,348,280,0 483,185,575,307,0 714,209,811,329,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/e7f6d66b9be5ce86.jpg 292,47,496,196,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/eb9cf4e53e139dee.jpg 0,214,126,375,0 413,172,550,339,0 564,171,707,365,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/6b7dfbc66b443b40.jpg 16,329,60,378,0 93,331,119,378,0 132,296,167,339,0 197,299,291,386,0 348,341,377,377,0 401,307,480,404,0 533,324,569,367,0 590,396,650,431,0 628,345,666,397,0 844,458,905,521,0 910,573,962,628,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/a95333b38a656d0c.jpg 50,271,444,780,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/28586546afbb3982.jpg 26,659,135,812,0 125,297,162,376,0 324,307,472,509,0 448,239,539,369,0 488,150,670,367,0 702,246,761,298,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/1f84277efa0b2875.jpg 282,258,360,361,0 472,0,748,350,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/81843ef2fb87c8e0.jpg 411,150,632,452,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/8ce4db42c9304aee.jpg 371,174,574,461,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/1373bbbd07ba5025.jpg 398,320,595,414,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/7e2ad13862c8000c.jpg 109,175,252,350,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/fb728fdf4828eb01.jpg 370,223,471,308,0 471,239,548,339,0 544,56,643,178,0 731,108,823,244,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/8002ef6707d34186.jpg 278,189,529,562,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/b26c21ccdfb06615.jpg 167,297,291,447,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/6779541443b29fc5.jpg 109,623,111,667,0 255,623,261,666,0 428,296,493,385,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/9a42b2bf1e06cff8.jpg 343,248,790,810,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/e0ba5e4d990f312a.jpg 137,319,202,374,0 429,314,547,462,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/8b0e76bfbc58d7d6.jpg 198,214,489,588,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/a0746984757a3f27.jpg 594,131,725,204,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/0be1060fb0cb0987.jpg 174,123,532,702,0
+/content/drive/My Drive/Colab Notebooks/TensorFlow-2.x-YOLOv3/OID/Dataset/train/Human_face/287e7622e9797069.jpg 324,116,547,428,0
